@@ -17,3 +17,21 @@ Language: Python <br>
 Libraries Used: pandas, numpy — Data processing matplotlib, seaborn — Visualization
 scikit-learn — Machine learning model building
 <br>Jupyter Notebook — Interactive development
+
+## Dataset
+
+The dataset contains medical parameters such as:
+Age<br>
+Gender<br>
+Total Bilirubin<br>
+Alkaline Phosphatase<br>
+Alamine Aminotransferase (ALT)<br>
+Aspartate Aminotransferase (AST)<br>
+Albumin<br>
+Albumin/Globulin Ratio<br>
+The dataset is used to predict whether a patient has liver disease or not (binary classification).<br>
+
+## Result 
+Model achieved high accuracy in predicting liver disease.<br>
+Visualization and correlation analysis reveal key health factors.<br>
+
