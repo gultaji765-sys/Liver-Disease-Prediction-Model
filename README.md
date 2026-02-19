@@ -20,7 +20,7 @@ scikit-learn — Machine learning model building
 
 ## Dataset
 
-The dataset contains medical parameters such as:
+The dataset is taken from Kaggle as a .csv file and it contains medical parameters such as:
 Age<br>
 Gender<br>
 Total Bilirubin<br>
@@ -32,6 +32,6 @@ Albumin/Globulin Ratio<br>
 The dataset is used to predict whether a patient has liver disease or not (binary classification).<br>
 
 ## Result 
-Model achieved high accuracy in predicting liver disease.<br>
+Model achieved accuracy of 58% with a strong recall of 0.78 for positive cases in predicting liver disease.<br>
 Visualization and correlation analysis reveal key health factors.<br>
 
