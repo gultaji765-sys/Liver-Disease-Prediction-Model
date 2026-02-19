@@ -15,22 +15,22 @@ The model is trained and evaluated using a structured dataset and provides insig
 
 Language: Python <br>
 Libraries Used: <br>
-    pandas, numpy — Data processing <br>
-    matplotlib, seaborn — Visualization <br>
-    scikit-learn — Machine learning model building<br>
+   - pandas, numpy — Data processing <br>
+   - matplotlib, seaborn — Visualization <br>
+   - scikit-learn — Machine learning model building<br>
 Environment : Jupyter Notebook 
 
 ## Dataset
 
-The dataset is taken from Kaggle as a .csv file and it contains medical parameters such as:
-Age<br>
-Gender<br>
-Total Bilirubin<br>
-Alkaline Phosphatase<br>
-Alamine Aminotransferase (ALT)<br>
-Aspartate Aminotransferase (AST)<br>
-Albumin<br>
-Albumin/Globulin Ratio<br>
+The dataset is taken from Kaggle as a .csv file and it contains medical parameters such as: <br>
+- Age<br>
+- Gender<br>
+- Total Bilirubin<br>
+- Alkaline Phosphatase<br>
+- Alamine Aminotransferase (ALT)<br>
+- Aspartate Aminotransferase (AST)<br>
+- Albumin<br>
+- Albumin/Globulin Ratio<br>
 The dataset is used to predict whether a patient has liver disease or not (binary classification).<br>
 
 ## Result 
