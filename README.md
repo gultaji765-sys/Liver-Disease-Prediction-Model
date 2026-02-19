@@ -14,9 +14,11 @@ The model is trained and evaluated using a structured dataset and provides insig
 ## Tech Stack
 
 Language: Python <br>
-Libraries Used: pandas, numpy — Data processing matplotlib, seaborn — Visualization
-scikit-learn — Machine learning model building
-<br>Jupyter Notebook — Interactive development
+Libraries Used: <br>
+    pandas, numpy — Data processing <br>
+    matplotlib, seaborn — Visualization <br>
+    scikit-learn — Machine learning model building<br>
+Environment : Jupyter Notebook 
 
 ## Dataset
 
@@ -34,4 +36,5 @@ The dataset is used to predict whether a patient has liver disease or not (binar
 ## Result 
 Model achieved accuracy of 58% with a strong recall of 0.78 for positive cases in predicting liver disease.<br>
 Visualization and correlation analysis reveal key health factors.<br>
+Dataset was imbalanced, and recall was prioritized to better detect disease-positive cases.
 
